@@ -1,5 +1,5 @@
 #adjust this line to the folder where you will be saving this code and the data file
-load("~/R_code_&_data/titanic.raw.rdata")
+load("~/Desktop/R/test/R_code_&_data/titanic.raw.rdata")
 
 head(titanic.raw)
 attach(titanic.raw)
